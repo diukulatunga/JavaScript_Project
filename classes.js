@@ -33,3 +33,4 @@ nswEmployee.showEmployeeAge();
 
 console.log("My mailing address1 :" + nswEmployee.getAddress());
 console.log("My mailing address2 :" + nswEmployee.address);
+console.log("This is a new line added By IndikaK");
